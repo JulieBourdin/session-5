@@ -6,13 +6,34 @@ body {
 }
 .main-header {
 	color: blue;
+	text-align: center;
 }
 .title-2 {
 	color:green;
 }
 #header-level-2 {
 	color:red;
+	font-style: italic;
 }
 #header-level-3 {
 	color:red;
+	font-style: italic;
+}
+.alert {
+  max-width:300px;
+  min-width: 100px;
+  text-align: center;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-width:2px;
+  border-color: red;
+}
+#mybox {
+	width:250px;
+	position:fixed;
+	top:30px;
+	left:100px;
 }
