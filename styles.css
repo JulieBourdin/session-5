@@ -4,3 +4,15 @@ body {
 
 #fixed-block {
 }
+.main-header {
+	color: blue;
+}
+.title-2 {
+	color:green;
+}
+#header-level-2 {
+	color:red;
+}
+#header-level-3 {
+	color:red;
+}
